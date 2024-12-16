@@ -29,6 +29,6 @@ If you find this code useful, please cite our project:
     year         = 2024,
     journal      = {GitHub repository},
     publisher    = {GitHub},
-    howpublished = {\url{https://github.com/shensf0522/LLM-InSightNews}}
+    howpublished = {{https://github.com/shensf0522/LLM-InSightNews}}
 }
 ```
